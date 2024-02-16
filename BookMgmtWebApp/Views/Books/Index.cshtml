@@ -1,0 +1,39 @@
+﻿@model List<Book>
+
+<div class="text-danger" asp-validation-summary="All"></div>
+
+<h3>Books</h3>
+<br />
+
+@if (Model != null)
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <td>Title</td>
+                <td>Genre</td>
+                <td>Author</td>
+                <td>Price</td>
+                <td>
+                </td>
+                <td>
+                </td>
+            </tr>
+
+        </thead>
+        <tbody>
+            @foreach (var book in Model)
+            {
+                <tr>
+                    <td>@book.Title</td>
+                    <td>@book.Genre</td>
+                    <td>@book.Author</td>
+                    <td>@(book.Price.HasValue ? book.Price.Value.ToString("c") : "")</td>
+                    <td><a class="btn btn-link" asp-controller="books" asp-action="updatebook" asp-route-bookId="@book.BookId">Edit</a> </td>
+                    <td><a class="btn btn-link" asp-controller="books" asp-action="deletebook" asp-route-bookId="@book.BookId">Delete</a> </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+<a class="btn btn-primary" asp-controller="books" asp-action="createbook">Create</a>

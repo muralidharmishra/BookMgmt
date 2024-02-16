@@ -1,0 +1,397 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Murali\\test\\BookMgmt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB445CD-BDBF-45DD-9F3F-2756091220E1}|Solution Items{0FB445CD-BDBF-45DD-9F3F-2756091220E1}|C:\\Murali\\test\\BookMgmt\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{0FB445CD-BDBF-45DD-9F3F-2756091220E1}|Solution Items{0FB445CD-BDBF-45DD-9F3F-2756091220E1}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6E09ED-0EE0-4F68-9158-0E5790666646}|BookMgmt.Test\\BookMgmt.Test.csproj|c:\\murali\\test\\bookmgmt\\bookmgmt.test\\bookmgmtwebapitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6E09ED-0EE0-4F68-9158-0E5790666646}|BookMgmt.Test\\BookMgmt.Test.csproj|solutionrelative:bookmgmt.test\\bookmgmtwebapitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274D9C31-6EC3-42C7-89D3-C59618AA7542}|BookMgmtWebApp\\BookMgmtWebApp.csproj|c:\\murali\\test\\bookmgmt\\bookmgmtwebapp\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274D9C31-6EC3-42C7-89D3-C59618AA7542}|BookMgmtWebApp\\BookMgmtWebApp.csproj|solutionrelative:bookmgmtwebapp\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274D9C31-6EC3-42C7-89D3-C59618AA7542}|BookMgmtWebApp\\BookMgmtWebApp.csproj|c:\\murali\\test\\bookmgmt\\bookmgmtwebapp\\data\\webapiexecuter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274D9C31-6EC3-42C7-89D3-C59618AA7542}|BookMgmtWebApp\\BookMgmtWebApp.csproj|solutionrelative:bookmgmtwebapp\\data\\webapiexecuter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274D9C31-6EC3-42C7-89D3-C59618AA7542}|BookMgmtWebApp\\BookMgmtWebApp.csproj|c:\\murali\\test\\bookmgmt\\bookmgmtwebapp\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274D9C31-6EC3-42C7-89D3-C59618AA7542}|BookMgmtWebApp\\BookMgmtWebApp.csproj|solutionrelative:bookmgmtwebapp\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274D9C31-6EC3-42C7-89D3-C59618AA7542}|BookMgmtWebApp\\BookMgmtWebApp.csproj|c:\\murali\\test\\bookmgmt\\bookmgmtwebapp\\data\\webapiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274D9C31-6EC3-42C7-89D3-C59618AA7542}|BookMgmtWebApp\\BookMgmtWebApp.csproj|solutionrelative:bookmgmtwebapp\\data\\webapiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B87582D-F1C6-4E66-B4A4-2E87EEF074EE}|BookMgmtWebApi\\BookMgmtWebApi.csproj|c:\\murali\\test\\bookmgmt\\bookmgmtwebapi\\models\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B87582D-F1C6-4E66-B4A4-2E87EEF074EE}|BookMgmtWebApi\\BookMgmtWebApi.csproj|solutionrelative:bookmgmtwebapi\\models\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274D9C31-6EC3-42C7-89D3-C59618AA7542}|BookMgmtWebApp\\BookMgmtWebApp.csproj|c:\\murali\\test\\bookmgmt\\bookmgmtwebapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274D9C31-6EC3-42C7-89D3-C59618AA7542}|BookMgmtWebApp\\BookMgmtWebApp.csproj|solutionrelative:bookmgmtwebapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B87582D-F1C6-4E66-B4A4-2E87EEF074EE}|BookMgmtWebApi\\BookMgmtWebApi.csproj|c:\\murali\\test\\bookmgmt\\bookmgmtwebapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B87582D-F1C6-4E66-B4A4-2E87EEF074EE}|BookMgmtWebApi\\BookMgmtWebApi.csproj|solutionrelative:bookmgmtwebapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274D9C31-6EC3-42C7-89D3-C59618AA7542}|BookMgmtWebApp\\BookMgmtWebApp.csproj|c:\\murali\\test\\bookmgmt\\bookmgmtwebapp\\views\\books\\updatebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274D9C31-6EC3-42C7-89D3-C59618AA7542}|BookMgmtWebApp\\BookMgmtWebApp.csproj|solutionrelative:bookmgmtwebapp\\views\\books\\updatebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274D9C31-6EC3-42C7-89D3-C59618AA7542}|BookMgmtWebApp\\BookMgmtWebApp.csproj|c:\\murali\\test\\bookmgmt\\bookmgmtwebapp\\views\\books\\createbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274D9C31-6EC3-42C7-89D3-C59618AA7542}|BookMgmtWebApp\\BookMgmtWebApp.csproj|solutionrelative:bookmgmtwebapp\\views\\books\\createbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B87582D-F1C6-4E66-B4A4-2E87EEF074EE}|BookMgmtWebApi\\BookMgmtWebApi.csproj|c:\\murali\\test\\bookmgmt\\bookmgmtwebapi\\filters\\actionfilters\\book_validatecreatebookfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B87582D-F1C6-4E66-B4A4-2E87EEF074EE}|BookMgmtWebApi\\BookMgmtWebApi.csproj|solutionrelative:bookmgmtwebapi\\filters\\actionfilters\\book_validatecreatebookfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274D9C31-6EC3-42C7-89D3-C59618AA7542}|BookMgmtWebApp\\BookMgmtWebApp.csproj|c:\\murali\\test\\bookmgmt\\bookmgmtwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274D9C31-6EC3-42C7-89D3-C59618AA7542}|BookMgmtWebApp\\BookMgmtWebApp.csproj|solutionrelative:bookmgmtwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274D9C31-6EC3-42C7-89D3-C59618AA7542}|BookMgmtWebApp\\BookMgmtWebApp.csproj|c:\\murali\\test\\bookmgmt\\bookmgmtwebapp\\data\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274D9C31-6EC3-42C7-89D3-C59618AA7542}|BookMgmtWebApp\\BookMgmtWebApp.csproj|solutionrelative:bookmgmtwebapp\\data\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274D9C31-6EC3-42C7-89D3-C59618AA7542}|BookMgmtWebApp\\BookMgmtWebApp.csproj|c:\\murali\\test\\bookmgmt\\bookmgmtwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{274D9C31-6EC3-42C7-89D3-C59618AA7542}|BookMgmtWebApp\\BookMgmtWebApp.csproj|solutionrelative:bookmgmtwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274D9C31-6EC3-42C7-89D3-C59618AA7542}|BookMgmtWebApp\\BookMgmtWebApp.csproj|c:\\murali\\test\\bookmgmt\\bookmgmtwebapp\\data\\iwebapiexecuter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274D9C31-6EC3-42C7-89D3-C59618AA7542}|BookMgmtWebApp\\BookMgmtWebApp.csproj|solutionrelative:bookmgmtwebapp\\data\\iwebapiexecuter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Murali\\test\\BookMgmt\\BookMgmt\\Filters\\ActionFilters\\Book_ValidateUpdateBookFilterAttribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookMgmt\\Filters\\ActionFilters\\Book_ValidateUpdateBookFilterAttribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Murali\\test\\BookMgmt\\BookMgmt\\Models\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookMgmt\\Models\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Murali\\test\\BookMgmt\\BookMgmt\\Filters\\ExceptionFilters\\Book_HandleUpdateExceptionsFilterAttribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookMgmt\\Filters\\ExceptionFilters\\Book_HandleUpdateExceptionsFilterAttribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Murali\\test\\BookMgmt\\BookMgmt\\Filters\\ActionFilters\\Book_ValidateBookIdFilterAttribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookMgmt\\Filters\\ActionFilters\\Book_ValidateBookIdFilterAttribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Murali\\test\\BookMgmt\\BookMgmt\\Models\\Repositories\\BookRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookMgmt\\Models\\Repositories\\BookRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Murali\\test\\BookMgmt\\BookMgmt\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookMgmt\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Murali\\test\\BookMgmt\\BookMgmt\\Filters\\ActionFilters\\Book_ValidateCreateBookFilterAttribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookMgmt\\Filters\\ActionFilters\\Book_ValidateCreateBookFilterAttribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookMgmtWebApiTest.cs",
+              "DocumentMoniker": "C:\\Murali\\test\\BookMgmt\\BookMgmt.Test\\BookMgmtWebApiTest.cs",
+              "RelativeDocumentMoniker": "BookMgmt.Test\\BookMgmtWebApiTest.cs",
+              "ToolTip": "C:\\Murali\\test\\BookMgmt\\BookMgmt.Test\\BookMgmtWebApiTest.cs",
+              "RelativeToolTip": "BookMgmt.Test\\BookMgmtWebApiTest.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T04:15:58.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApp\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookMgmtWebApp\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApp\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookMgmtWebApp\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T00:25:05.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApiException.cs",
+              "DocumentMoniker": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApp\\Data\\WebApiException.cs",
+              "RelativeDocumentMoniker": "BookMgmtWebApp\\Data\\WebApiException.cs",
+              "ToolTip": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApp\\Data\\WebApiException.cs",
+              "RelativeToolTip": "BookMgmtWebApp\\Data\\WebApiException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T02:36:10.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebApiExecuter.cs",
+              "DocumentMoniker": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApp\\Data\\WebApiExecuter.cs",
+              "RelativeDocumentMoniker": "BookMgmtWebApp\\Data\\WebApiExecuter.cs",
+              "ToolTip": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApp\\Data\\WebApiExecuter.cs",
+              "RelativeToolTip": "BookMgmtWebApp\\Data\\WebApiExecuter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T00:28:52.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApp\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookMgmtWebApp\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApp\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "BookMgmtWebApp\\Views\\Books\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-16T00:27:54.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApi\\Models\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookMgmtWebApi\\Models\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApi\\Models\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "BookMgmtWebApi\\Models\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAawDkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T04:01:48.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Murali\\test\\BookMgmt\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Murali\\test\\BookMgmt\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-02-16T03:02:14.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "BookMgmtWebApp\\Program.cs",
+              "ToolTip": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApp\\Program.cs",
+              "RelativeToolTip": "BookMgmtWebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T00:29:51.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApi\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookMgmtWebApi\\Models\\Book.cs",
+              "ToolTip": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApi\\Models\\Book.cs",
+              "RelativeToolTip": "BookMgmtWebApi\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T04:00:27.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book_ValidateCreateBookFilterAttribute.cs",
+              "DocumentMoniker": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApi\\Filters\\ActionFilters\\Book_ValidateCreateBookFilterAttribute.cs",
+              "RelativeDocumentMoniker": "BookMgmtWebApi\\Filters\\ActionFilters\\Book_ValidateCreateBookFilterAttribute.cs",
+              "ToolTip": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApi\\Filters\\ActionFilters\\Book_ValidateCreateBookFilterAttribute.cs",
+              "RelativeToolTip": "BookMgmtWebApi\\Filters\\ActionFilters\\Book_ValidateCreateBookFilterAttribute.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABkAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T04:01:40.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApp\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookMgmtWebApp\\Models\\Book.cs",
+              "ToolTip": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApp\\Models\\Book.cs",
+              "RelativeToolTip": "BookMgmtWebApp\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T00:26:50.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateBook.cshtml",
+              "DocumentMoniker": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApp\\Views\\Books\\CreateBook.cshtml",
+              "RelativeDocumentMoniker": "BookMgmtWebApp\\Views\\Books\\CreateBook.cshtml",
+              "ToolTip": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApp\\Views\\Books\\CreateBook.cshtml",
+              "RelativeToolTip": "BookMgmtWebApp\\Views\\Books\\CreateBook.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwBkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-16T00:50:18.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateBook.cshtml",
+              "DocumentMoniker": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApp\\Views\\Books\\UpdateBook.cshtml",
+              "RelativeDocumentMoniker": "BookMgmtWebApp\\Views\\Books\\UpdateBook.cshtml",
+              "ToolTip": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApp\\Views\\Books\\UpdateBook.cshtml",
+              "RelativeToolTip": "BookMgmtWebApp\\Views\\Books\\UpdateBook.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-16T02:10:53.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BookMgmtWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BookMgmtWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-16T02:28:07.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApp\\Data\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "BookMgmtWebApp\\Data\\ErrorResponse.cs",
+              "ToolTip": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApp\\Data\\ErrorResponse.cs",
+              "RelativeToolTip": "BookMgmtWebApp\\Data\\ErrorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T02:32:21.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IWebApiExecuter.cs",
+              "DocumentMoniker": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApp\\Data\\IWebApiExecuter.cs",
+              "RelativeDocumentMoniker": "BookMgmtWebApp\\Data\\IWebApiExecuter.cs",
+              "ToolTip": "C:\\Murali\\test\\BookMgmt\\BookMgmtWebApp\\Data\\IWebApiExecuter.cs",
+              "RelativeToolTip": "BookMgmtWebApp\\Data\\IWebApiExecuter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T00:35:55.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Book_ValidateUpdateBookFilterAttribute.cs",
+              "DocumentMoniker": "C:\\Murali\\test\\BookMgmt\\BookMgmt\\Filters\\ActionFilters\\Book_ValidateUpdateBookFilterAttribute.cs",
+              "RelativeDocumentMoniker": "BookMgmt\\Filters\\ActionFilters\\Book_ValidateUpdateBookFilterAttribute.cs",
+              "ToolTip": "C:\\Murali\\test\\BookMgmt\\BookMgmt\\Filters\\ActionFilters\\Book_ValidateUpdateBookFilterAttribute.cs",
+              "RelativeToolTip": "BookMgmt\\Filters\\ActionFilters\\Book_ValidateUpdateBookFilterAttribute.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T23:45:03.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Murali\\test\\BookMgmt\\BookMgmt\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookMgmt\\Models\\Book.cs",
+              "ToolTip": "C:\\Murali\\test\\BookMgmt\\BookMgmt\\Models\\Book.cs",
+              "RelativeToolTip": "BookMgmt\\Models\\Book.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T22:21:52.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Book_HandleUpdateExceptionsFilterAttribute.cs",
+              "DocumentMoniker": "C:\\Murali\\test\\BookMgmt\\BookMgmt\\Filters\\ExceptionFilters\\Book_HandleUpdateExceptionsFilterAttribute.cs",
+              "RelativeDocumentMoniker": "BookMgmt\\Filters\\ExceptionFilters\\Book_HandleUpdateExceptionsFilterAttribute.cs",
+              "ToolTip": "C:\\Murali\\test\\BookMgmt\\BookMgmt\\Filters\\ExceptionFilters\\Book_HandleUpdateExceptionsFilterAttribute.cs",
+              "RelativeToolTip": "BookMgmt\\Filters\\ExceptionFilters\\Book_HandleUpdateExceptionsFilterAttribute.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T23:51:13.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Book_ValidateBookIdFilterAttribute.cs",
+              "DocumentMoniker": "C:\\Murali\\test\\BookMgmt\\BookMgmt\\Filters\\ActionFilters\\Book_ValidateBookIdFilterAttribute.cs",
+              "RelativeDocumentMoniker": "BookMgmt\\Filters\\ActionFilters\\Book_ValidateBookIdFilterAttribute.cs",
+              "ToolTip": "C:\\Murali\\test\\BookMgmt\\BookMgmt\\Filters\\ActionFilters\\Book_ValidateBookIdFilterAttribute.cs",
+              "RelativeToolTip": "BookMgmt\\Filters\\ActionFilters\\Book_ValidateBookIdFilterAttribute.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T23:00:04.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Murali\\test\\BookMgmt\\BookMgmt\\Models\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookMgmt\\Models\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Murali\\test\\BookMgmt\\BookMgmt\\Models\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "BookMgmt\\Models\\Repositories\\BookRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T22:52:26.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Murali\\test\\BookMgmt\\BookMgmt\\Program.cs",
+              "RelativeDocumentMoniker": "BookMgmt\\Program.cs",
+              "ToolTip": "C:\\Murali\\test\\BookMgmt\\BookMgmt\\Program.cs",
+              "RelativeToolTip": "BookMgmt\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T21:52:29.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Book_ValidateCreateBookFilterAttribute.cs",
+              "DocumentMoniker": "C:\\Murali\\test\\BookMgmt\\BookMgmt\\Filters\\ActionFilters\\Book_ValidateCreateBookFilterAttribute.cs",
+              "RelativeDocumentMoniker": "BookMgmt\\Filters\\ActionFilters\\Book_ValidateCreateBookFilterAttribute.cs",
+              "ToolTip": "C:\\Murali\\test\\BookMgmt\\BookMgmt\\Filters\\ActionFilters\\Book_ValidateCreateBookFilterAttribute.cs",
+              "RelativeToolTip": "BookMgmt\\Filters\\ActionFilters\\Book_ValidateCreateBookFilterAttribute.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T23:31:40.463Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "u4eJJx8OjuyTT+RUn9s1j45GjBD9TTCA440yj2CN0Uo=",
+  "Source": "BookMgmtWebApi",
+  "BasePath": "_content/BookMgmtWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
